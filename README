@@ -1,0 +1,5 @@
+Backported USB TMC module for older kernels, e.g. RHEL-5.
+For up-to-date kernels, please use the in-kernel module.
+
+How to build:
+ ./build modules_install
